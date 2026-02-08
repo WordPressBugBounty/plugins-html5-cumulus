@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: https://www.paypal.me/flector
 Tags: 3d tag cloud, tag cloud, cumulus, wp-cumulus, 3d tagcloud, html5, 3d, cloud, tag, tags, widget, sidebar, tag-cloud, tagcloud, tagging, colored, category, tag widget
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.3
 Stable tag: trunk
 
